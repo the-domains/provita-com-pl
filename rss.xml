@@ -4,7 +4,7 @@
         <description><![CDATA[PRO VITA Group]]></description>
         <link>https://thegrid.ai/provita-com-pl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 21:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 21:57:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/provita-com-pl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PRO VITA ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/provita-com-pl/o-pro-vita/index.html</link>
             <guid isPermaLink="false">24e4121b-b5bb-4aee-9f39-17e086345019</guid>
             <pubDate>Tue, 17 May 2016 19:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Locations]]></title>
+            <description><![CDATA[<p>We are located in the heart of Europe with own offices in Poland and Germany:</p>]]></description>
+            <link>https://thegrid.ai/provita-com-pl/locations/index.html</link>
+            <guid isPermaLink="false">3902141c-a2d1-4c65-96b8-2994a63bdceb</guid>
+            <pubDate>Tue, 17 May 2016 21:56:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Where we are?]]></title>
