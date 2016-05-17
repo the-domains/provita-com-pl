@@ -1,0 +1,29 @@
+name: provita.com.pl
+favicon: null
+layout_spectrum: 0.9421418546698987
+typography_spectrum: 0.973929924890399
+title: PRO VITA Innowacje dla medycyny
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.08600053726695478
+  lightness: 0.8215481657534838
+  saturation: 0.26731164613738656
+  rhythmicContrast: 0.7075265881139785
+purpose: []
