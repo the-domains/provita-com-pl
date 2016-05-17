@@ -4,7 +4,7 @@
         <description><![CDATA[PRO VITA Innowacje dla medycyny]]></description>
         <link>https://thegrid.ai/provita-com-pl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 19:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 21:21:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/provita-com-pl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PRO VITA ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/provita-com-pl/o-pro-vita/index.html</link>
             <guid isPermaLink="false">24e4121b-b5bb-4aee-9f39-17e086345019</guid>
             <pubDate>Tue, 17 May 2016 19:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Innowacyjny sprzęt medyczny]]></title>
+            <description><![CDATA[<p>Od 2001 roku wyspecjalizowaliśmy się w zaawansowanych rozwiązaniach w zakresie sprzętu i aparatury medycznej. Współpracujemy z czołowymi ośrodkami dostarczając rozwiązania stanowiące przyszłość diagnotyki i terapii. </p>]]></description>
+            <link>https://thegrid.ai/provita-com-pl/innowacyjny-sprzet-medyczny/index.html</link>
+            <guid isPermaLink="false">f9b6ecae-dcd4-4adf-86ea-ee1be5d5879b</guid>
+            <pubDate>Tue, 17 May 2016 21:21:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
